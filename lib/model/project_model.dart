@@ -17,7 +17,13 @@ List<Project> projectList = [
     'GR Task Management App',
     'This task management application simplifies team collaboration by allowing users to create, assign, and track tasks within a group. Ideal for small teams or project groups, it enables members to stay organized and accountable. Each task can be assigned to specific users, marked with deadlines, and updated as progress is made. With a clean and intuitive interface, the app keeps everyone on the same page, promoting productivity and efficient task completion. The project is ongoing and we cannot share the link yet.',
     'assets/images/task.png',
-    'https://websprix-ui-update.vercel.app/',
+      ""
+  ),
+   Project(
+    'Mascot Rive Animation',
+    'This is a showcase for rive animations, demonstrating the power of Rive in creating interactive and engaging user interfaces. The project features various animations that can be integrated into mobile and web applications, enhancing user experience with dynamic visuals.',
+    'assets/images/bubble.png',
+    'https://bubbleriveflutter.vercel.app/#/mascot',
   ),
   Project(
     'Food recipe app',
