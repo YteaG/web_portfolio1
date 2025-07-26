@@ -25,6 +25,29 @@ List<Project> projectList = [
     'assets/images/bubble.png',
     'https://bubbleriveflutter.vercel.app/#/mascot',
   ),
+   Project(
+    'eQUB',
+    'eQUB is a traditional Ethiopian saving system that allows groups of people to save money together. Each member contributes a fixed amount regularly, and the total collected amount is given to one member in a rotating manner. This system promotes saving and financial discipline among participants.',
+    'assets/images/equb.jpg',
+    'https://play.google.com/store/apps/details?id=com.equbapplication&hl=en',
+  ),
+  Project(
+    'TinaMart',
+    'Shop smart with TinaMart, your go-to online shopping app! Browse a wide range of products from electronics to fashion, all at your fingertips. Enjoy a seamless shopping experience with easy navigation, secure payment options, and fast delivery. Save your favorite items, track orders, and discover exclusive deals—all in one convenient app. Perfect for anyone looking to shop from the comfort of their home!',
+    'assets/images/tinamart.jpg',
+    'https://play.google.com/store/search?q=tina+mart&c=apps&hl=en',
+  ),
+  Project(
+    'Engocha',
+    'Engocha is a comprehensive online shopping app that offers a wide range of products, from electronics to fashion. With a user-friendly interface, it allows customers to browse, compare, and purchase items easily. The app features secure payment options, order tracking, and personalized recommendations, making online shopping convenient and enjoyable.',
+    'assets/images/engocha.jpg',
+    'https://play.google.com/store/search?q=engocha&c=apps&hl=en',
+  ),
+  Project(
+      'Panda telegram bot app',
+      'Engage and earn with our Telegram bot app! Complete simple tasks, participate in events, and unlock rewards through an interactive, user-friendly interface. Ideal for airdrops and community engagement, the bot guides you through tasks and tracks your progress, with rewards available upon completion. Stay active, collect points, and enjoy exclusive benefits—all within the Telegram app!',
+      'assets/images/panda.jpg',
+      'https://github.com/YteaG/movie-app.git'),
   Project(
     'Food recipe app',
     'Our food recipe app makes cooking simple and fun! Find a wide variety of recipes with step-by-step instructions, ingredient lists, and helpful cooking tips for all levels. Easily save your favorites, plan meals, and explore dishes from different cuisines—all in one convenient app. Perfect for anyone wanting to cook delicious meals at home!',
@@ -47,10 +70,6 @@ List<Project> projectList = [
       'Enjoy endless entertainment with our movie streaming app! Stream the latest movies, popular series, and exclusive content, all organized in a user-friendly, clean layout. With personalized recommendations, genre-based browsing, and easy-to-use search, finding your next favorite title is simple. Built with a reliable, clean architecture for a smooth and fast streaming experience, our app brings the magic of cinema right to your screen!',
       'assets/images/movie.jpg',
       'https://github.com/YteaG/movie-app.git'),
-  Project(
-      'Panda telegram bot app',
-      'Engage and earn with our Telegram bot app! Complete simple tasks, participate in events, and unlock rewards through an interactive, user-friendly interface. Ideal for airdrops and community engagement, the bot guides you through tasks and tracks your progress, with rewards available upon completion. Stay active, collect points, and enjoy exclusive benefits—all within the Telegram app!',
-      'assets/images/panda.jpg',
-      'https://github.com/YteaG/movie-app.git'),
+  
   
 ];
